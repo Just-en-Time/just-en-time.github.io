@@ -29,7 +29,7 @@ jektify:
 # Attention! Do not change the information below as it is 
 # for development unless you know what you are doing.
 
-include: ['_blog','_pages']
+include: ['_blog','_pages', '.nojekyll']
 
 markdown: kramdown
 highlighter: rouge
@@ -43,8 +43,6 @@ includes_dir: _src/_includes
 plugins_dir: _src/_plugins
 
 destination: public
-port: 4000
-host: localhost
 
 sass:
   load_paths:
