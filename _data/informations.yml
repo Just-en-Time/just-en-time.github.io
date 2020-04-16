@@ -135,7 +135,7 @@ website:
 
 # User data
 userdata:
-  email: # E.g: youremail@domain.com
+  email: dream@timemachine.agency
   twitter: # E.g: "@my_twitter"
   disqus:
     username: # E.g: myuser

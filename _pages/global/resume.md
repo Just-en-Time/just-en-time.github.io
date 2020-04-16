@@ -1,7 +1,7 @@
 ---
 layout: resume
 order: 3
-title: Services and Agents
+title: Services
 sitemap:
   priority: 0.7
   changefreq: 'monthly'

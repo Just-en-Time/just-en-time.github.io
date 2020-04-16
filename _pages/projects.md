@@ -22,11 +22,13 @@ We at the Agency are proud of our projects for and collaborations with other loc
 ## Current Collaborations
 
 ### Smart Home & Interactive Art
+
 | Analog Kinetic Timepieces |
 | **Status**: <label style="color:blue;">Initializing</label> |
 | **Description**: Commissioned for concept exploration and early fabrication of a whole-home integration, analog-interfaced time keeping & sleep scheduling system |
 
 ### iOS Development
+
 | Associated App for Analog Kinetic Timepieces |
 | **Status**: <label style="color:blue;">Initializing</label> |
 | **Description**: Companion app and Apple Fitness integration for Kinetic Timepieces' client |
