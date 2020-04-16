@@ -17,14 +17,22 @@ published: true
 permalink: /projects/ # add permilink for page. E.g: /smallparty/
 ---
 
-We at the Agency are proud of our projects for and collaborations with other local artists, entrepreneurs, and engineers. You may expect to find in-depth explorations on some of these endeavors here in the near future.
+We at the Agency are proud of our projects for and collaborations with other local artists, entrepreneurs, and engineers. With client consent and participation, you may expect to find in-depth explorations on some of these endeavors here in the near future.
 
-//## Major collaborations
+## Current Collaborations
 
-//[Typing Theme](https://github.com/williamcanin/typing-jekyll-template) : Creating themes for Jekyll
+### Smart Home & Interactive Art
+| Analog Kinetic Timepieces |
+| **Status**: <label style="color:blue;">Initializing</label> |
+| **Description**: Commissioned for concept exploration and early fabrication of a whole-home integration, analog-interfaced time keeping & sleep scheduling system |
 
+### iOS Development
+| Associated App for Analog Kinetic Timepieces |
+| **Status**: <label style="color:blue;">Initializing</label> |
+| **Description**: Companion app and Apple Fitness integration for Kinetic Timepieces' client |
 
-//|[Typing Jekyll Template](https://github.com/williamcanin/typing-jekyll-template){:target="_blank"}|
-//--------------------------|----------------------------
-//| **Status**: <label style="color:green;">Active</label> |
-//| **Description**: Typing, is a template for Jekyll built especially for those who want to have a blog and pages quickly and lightly. |
+### Cloud Consulting
+
+| DevOps and Cloud infrastructure Advisor |
+| **Status**: <label style="color:green;">Active</label> |
+| **Description**: Cloud architectural consultation for a local early-stage startup |

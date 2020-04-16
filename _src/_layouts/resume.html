@@ -14,11 +14,6 @@ layout: default
           <div class="p-0 col-8 col-lg-3 offset-lg-0 col-sm-6">
             <h1 class="font-weight-bold layout_resume__title">{{ page.title }}</h1>
           </div>
-          <div class="col-4 col-lg-3 offset-lg-6 col-sm-6 d-none d-lg-block">
-            <div class="row justify-content-end">
-              <button id="layout_resume__btnprint" type="button" name="button" class="btn btn-link btn-typing layout_resume__btnprint">{{ load_data.website.content.resume.button.text }}</button>
-            </div>
-          </div>
 
           {% if load_options.content.resume.reading_time.enable == true %}
           <div class="layout_resume__reading_time">
@@ -41,12 +36,12 @@ layout: default
 
     </div>
 
-    
+
 
     <div class="p-1 p-lg-4 mb-4 layout_resume__content">
       <div class="container-fluid">
         <div class="row d-block">
-          {% if load_options.content.resume.image.enable == true and 
+          {% if load_options.content.resume.image.enable == true and
               load_data.website.content.resume.image %}
           <div class="img-fluid float-right d-none d-lg-block layout_resume__photo_cv">
             <img class="rounded" style="border: 1px solid #000;"

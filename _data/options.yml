@@ -53,7 +53,7 @@ content:
     expected:
       enable: true
     tags:
-      enable: true
+      enable: false
     comments:
       enable: true
   tagpost:
@@ -68,7 +68,7 @@ content:
       enable: true
   post:
     reading_time:
-      enable: true
+      enable: false
     animation: true
     author:
       enable: true
@@ -95,10 +95,10 @@ content:
   resume:
     animation: true
     reading_time:
-      enable: true
+      enable: false
     image:
       enable: true
   page:
     animation: true
     reading_time:
-      enable: true
+      enable: false

@@ -6,7 +6,7 @@ title: Tags
 # E.g: fa-briefcase
 icon: fa-tags
 menu:
-  enable: true
+  enable: false
   local: [blog]
 script: []
 published: true

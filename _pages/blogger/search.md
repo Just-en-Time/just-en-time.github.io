@@ -6,7 +6,7 @@ title: Search
 # E.g: fa-briefcase
 icon: fa-search
 menu:
-  enable: true
+  enable: false
   local: [blog]
 script: [search.js]
 published: true

@@ -6,7 +6,7 @@ title: Feed
 # E.g: fa-briefcase
 icon: fa-rss
 menu:
-  enable: true
+  enable: false
   local: [blog]
 script: []
 published: true

@@ -14,9 +14,9 @@ website:
 # Theme - Values [ typing | whiteglass | cloudysky | hacking | littlegirl | custom ]
   theme: "typing"
 # Configuration default
-  title: "Typing"
-  description: "Typing - A Theme for Jekyll"
-  launch: 2015
+  title: "Time Machine Agency"
+  description: "Time Machine Agency: Every Day is Eternal"
+  launch: 2020
   metatag:
     google_site_verification:
     type: "WebSite"
@@ -131,7 +131,7 @@ website:
           Here you find the posts related to the specified tag.
 # Footer
   footer:
-    message: "Simplicity is fashionable."
+    message: "😉 Simplicity is fashionable."
 
 # User data
 userdata:

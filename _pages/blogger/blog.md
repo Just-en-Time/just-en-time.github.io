@@ -8,12 +8,12 @@ posts_quantity:
 # E.g: fa-briefcase
 icon: fa-edit
 menu:
-  enable: true
+  enable: false
   local: [default, blog]
 pagination:
   enabled: true
 script: [postlist.js]
-# NOTE: If you disable blog posting, you'll have to 
+# NOTE: If you disable blog posting, you'll have to
 #       disable tags.md, feed.md and search.md too.
 published: true
 permalink: /blog/ # add permilink for page. E.g: /smallparty/

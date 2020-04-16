@@ -1,7 +1,7 @@
 ---
 layout: contact
 order: 4
-title: Contact
+title: Get in Touch
 # Use icons of: https://fontawesome.com/icons
 # E.g: fa-briefcase
 icon: fa-envelope
