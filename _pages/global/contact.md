@@ -13,4 +13,4 @@ published: true
 permalink: /contact/ # add permilink for page. E.g: /smallparty/
 ---
 
-Here you can send me an email to ask questions or contact me for service.
+Reach out to us and say hi!

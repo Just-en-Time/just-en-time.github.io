@@ -1,7 +1,7 @@
-# In this file you will put information for your website, 
+# In this file you will put information for your website,
 # string modifications, add email and many more.
 # ____________________________________________________
-# Attention! Change only the values of the variables! 
+# Attention! Change only the values of the variables!
 # Do not change the position of the variables.
 # ____________________________________________________
 
@@ -41,11 +41,11 @@ website:
       flip:
         img: "typing_back.png"
     title:
-      text: "Hey, <br> I'm Typing."
+      text: "All The <br> Time <br> You Need"
       size: "2.3rem"
     menu:
       blog:
-        text: "Blog"
+        text: "News and Adventure"
         search:
           text: "Search"
         tags:
@@ -72,14 +72,14 @@ website:
       author:
         avatar: "author.png"
         title: "Author"
-        name: "Typing Theme"
+        name: "The Agency"
         description: |
           Hi! I'm the Typing theme. :)
       share:
         title: "Share this post"
       comments:
         title: "Leave a comment on this post"
-  
+
   # Postlist
     postlist:
       pagination:
