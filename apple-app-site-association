@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.casetimenow.witnss" ],
+             "appIDs": [ "FSS4C2VV97.com.casetimenow.witnss" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,6 +28,6 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "com.casetimenow.witnss" ]
+      "apps": [ "FSS4C2VV97.com.casetimenow.witnss" ]
    }
 }
